@@ -22,7 +22,7 @@
             "fan_only": "Fan only",
             "heat": "Heat",
             "heat_cool": "Heat/Cool",
-            "off": "Off"
+            "off": "[%key:common::state::off%]"
         }
     },
     "title": "Climate"

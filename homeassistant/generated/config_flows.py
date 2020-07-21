@@ -159,6 +159,7 @@ FLOWS = [
     "starline",
     "syncthru",
     "synology_dsm",
+    "tadiran",
     "tado",
     "tellduslive",
     "tesla",
